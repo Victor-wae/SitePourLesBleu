@@ -1,0 +1,12 @@
+#menu h1{
+    background-color: aquamarine;
+}
+#data img{
+    image-rendering: url(src/Belgique_-_Louvain-la-Neuve_-_Cercle_industriel_-_01.jpg);
+    background-size: cover;
+}
+.container{
+    background-color: black;
+    image-rendering: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.referenseo.com%2Fblog%2F10-banques-images-gratuites-libre-droits%2F&psig=AOvVaw1gk4qf36yVl0h5nz4c1rqJ&ust=1685126833523000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCODR0eOQkf8CFQAAAAAdAAAAABAO);
+    background-size: cover;
+}
